@@ -33,15 +33,13 @@ Key points:
 <img width="1600" height="881" alt="image" src="https://github.com/user-attachments/assets/700d7f03-9e20-4c1e-8a33-0b6b89e33085" />
 
 <img width="1355" height="1430" alt="image" src="https://github.com/user-attachments/assets/83a4333e-5ab3-42e1-913a-cce2b6c0864e" />
-
-
 ---
-
 ## TABULATION
-
 ![alt text](image.png)
 
 ## MODEL GRAPH
+
+
 ![alt text](image-1.png)
 
 
