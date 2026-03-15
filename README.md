@@ -40,6 +40,7 @@ Key points:
 ![alt text](image.png)
 
 ## MODEL GRAPH
+
 ![alt text](image-1.png)
 
 ## RESULT
